@@ -12,8 +12,6 @@ The aim of this project is to understand how machine learning can be applied in 
 - Python
 - NumPy
 - Pandas
-- Scikit-learn
-- Matplotlib (if used)
 
 ---
 
